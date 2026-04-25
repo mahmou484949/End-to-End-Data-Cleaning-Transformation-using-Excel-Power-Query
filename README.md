@@ -29,7 +29,7 @@ The following steps were performed to prepare the dataset:
 ## 📷 Power Query Workflow
 This screenshot illustrates the applied steps in Power Query, showing the full data transformation pipeline:
 
-![Power Query Steps](images/power-query-steps.png)
+![Power Query Steps](Screenshot/your-image-name.png)
 
 ---
 
