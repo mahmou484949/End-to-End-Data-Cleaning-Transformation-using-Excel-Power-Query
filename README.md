@@ -24,14 +24,7 @@ The following steps were performed to prepare the dataset:
 - Microsoft Excel  
 - Power Query  
 
----
 
-## 📷 Power Query Workflow
-This screenshot illustrates the applied steps in Power Query, showing the full data transformation pipeline:
-
-![Power Query Steps](Screenshot/Screenshot2026-03-31141926.png)
-
----
 
 ## 📈 Key Outcome
 The dataset was transformed into a clean, structured, and analysis-ready format.  
